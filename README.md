@@ -11,10 +11,10 @@ colab noteboookはgoogle colabolatoryでの表示に合わせて製作してい�
 "Open in Colab" アイコンで Google Colaboratory に行って開けば，私が想定していた形ですべて閲覧できるはずです．  
 
 【講義資料】  
-001: First step to google colaboratory
-002: Useful commands and tips
-003: Hello Cloud
-
+001: First step to google colaboratory  
+002: Useful commands and tips  
+003: Hello Cloud  
+  
 3.節 グラフの探索  
 3.1.節 幅優先探索と深さ優先探索  
 004: 3.2.節 幅優先探索  
