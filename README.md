@@ -7,8 +7,8 @@ Data structure and Algorithm in AY2021 at ESYS on Univ-Tsukuba, Japan.
 C言語で非数値データを扱ったりそれを処理するアルゴリズムについて勉強します．  
 colab noteboookはgoogle colabolatoryでの表示に合わせて製作しています．
 そのため，本github上では表示が崩れていたりすることがあるかもしれません．
-（google colaboratoryとgithubでは全く同じレンダリングをしてくれるわけではない）  
-"Open in Colab" アイコンで Google Colaboratory に行って開けば，私が想定していた形ですべて閲覧できるはずです．  
+（google colaboratoryとgithubでは全く同じレンダリングをしてくれるという保証はない）  
+"Open in Colab" アイコンで Google Colaboratory に行って開けば，授業資料として想定していた形で閲覧できるはずです．  
 
 【講義資料】  
 001: First step to google colaboratory  
