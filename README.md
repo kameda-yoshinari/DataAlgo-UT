@@ -41,7 +41,7 @@ colab noteboookはgoogle colabolatoryでの表示に合わせて製作してい�
 7.節 問題の置換
 (対応colab notebookなし)
 
-8.節 近似解法
+8.節 近似解法  
 015: 8.1.節 2近似アルゴリズム  
 016: 8.2.節 FPTASアルゴリズム  
 
