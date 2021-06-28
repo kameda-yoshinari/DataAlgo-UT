@@ -58,7 +58,10 @@ R08 ... 第8週課題の雛形
 R09 ... 第9週課題の雛形   
 R10 ... 第10週課題の雛形   
 
-
-
-  
+【注意書】
+githubで稀に「Sorry, something went wrong. Reload?」と言われることがあるかもしれません。
+時間を空けて再度Reloadしても状況が改善しない場合は、少し手間ですが、
+https://nbviewer.jupyter.org/
+にアクセスし、当該リンクを張り付けて可視化（レンダリング）してみてください。
+（参考） https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github
 
