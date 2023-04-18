@@ -1,5 +1,5 @@
-# DataAlgo-UT (AY2022)
-Data structure and Algorithm in AY2021 at ESYS on Univ-Tsukuba, Japan.
+# DataAlgo-UT (AY2023)
+Data structure and Algorithm in AY2023 at ESYS on Univ-Tsukuba, Japan.
 
 筑波大学工学システム学類3年生科目
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
