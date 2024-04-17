@@ -1,4 +1,4 @@
-# DataAlgo-UT (AY2023)
+# DataAlgo-UT (AY2024)
 Data structure and Algorithm in AY2024 at ESYS on Univ-Tsukuba, Japan.
 
 筑波大学工学システム学類3年生科目
