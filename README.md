@@ -1,6 +1,6 @@
 # DataAlgo-UT (AY2024)
 Data structure and Algorithm in AY2024 at ESYS on Univ-Tsukuba, Japan.  
-https://github.com/kameda-yoshinari/DataAlgo-UT/blob/main/README.md  
+[Readme at github.com](https://github.com/kameda-yoshinari/DataAlgo-UT/blob/main/README.md)  
 
 筑波大学工学システム学類3年生科目
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
@@ -62,7 +62,7 @@ R10 ... 第10週課題の雛形
 【注意書】
 githubで稀に「Sorry, something went wrong. Reload?」と言われることがあるかもしれません。
 時間を空けて再度Reloadしても状況が改善しない場合は、少し手間ですが、
-https://nbviewer.jupyter.org/
+[nbviewer](https://nbviewer.jupyter.org/)
 にアクセスし、当該リンクを張り付けて可視化（レンダリング）してみてください。  
-（参考） https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github
+（参考） [stackoverflow](https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github)
 
