@@ -1,5 +1,5 @@
-# DataAlgo-UT (AY2024)
-Data structure and Algorithm in AY2024 at ESYS on Univ-Tsukuba, Japan.  
+# DataAlgo-UT (AY2025)
+Data structure and Algorithm in AY2025 at ESYS on Univ-Tsukuba, Japan.  
 [Readme at github.com](https://github.com/kameda-yoshinari/DataAlgo-UT/blob/main/README.md)  
 
 筑波大学工学システム学類3年生科目
@@ -50,6 +50,7 @@ colab noteboookはgoogle colabolatoryでの表示に合わせて製作してい�
 018: 有限オートマトン  
 
 【課題】  
+授業の進行に合わせて用意します．  
 R03 ... 第3週課題の雛形  
 R04 ... 第4週課題の雛形  
 R05 ... 第5週課題の雛形  
