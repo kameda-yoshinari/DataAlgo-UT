@@ -1,4 +1,4 @@
-# DataAlgo-UT (AY2025)
+# DataAlgo-UT (AY2026)
 Data structure and Algorithm in AY2025 at ESYS on Univ-Tsukuba, Japan.  
 [Readme at github.com](https://github.com/kameda-yoshinari/DataAlgo-UT/blob/main/README.md)  
 
